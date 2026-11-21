@@ -34,6 +34,7 @@
 - [Bullet Train](https://bullettrain.co/) – Rails SaaS boilerplate with multi-tenancy and Stripe.
 - [Wasp SaaS Template](https://github.com/wasp-lang/wasp) – Full-stack SaaS template using React and Node.
 - [Nodewood](https://nodewood.com/) – Node.js and Vue.js boilerplate with authentication and subscription features.
+- [supastack](https://supastack.dev) – SaaS starter kit with Next.js, Expo, and Tauri apps in one monorepo, including auth, billing, and AI.
 
 ## Authentication & User Management
 
