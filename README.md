@@ -125,6 +125,7 @@
 - [Fathom Analytics](https://usefathom.com/) – Privacy-first analytics ideal for SaaS businesses operating in regulated markets.
 - [Beton Inspector](https://github.com/getbeton/inspector) – Open-source revenue intelligence that connects PostHog product usage to your CRM and detects buying, expansion, and churn signals. Self-hostable (AGPLv3).
 - [Speak AI](https://speakai.co) – Conversation intelligence platform for call scoring, sales coaching, transcription, and workflow automation.
+- [SupaSEO](https://supaseo.dev) – Local SEO and AI citation tracking for SaaS products: Google Maps and organic rank tracking, page audits, and client-ready evidence reports, powered by your own provider keys.
 
 ## Learning Resources
 
