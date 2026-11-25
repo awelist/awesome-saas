@@ -114,6 +114,7 @@
 - [GitBook](https://www.gitbook.com/) – Collaborative documentation platform for SaaS teams.
 - [Swagger UI](https://swagger.io/tools/swagger-ui/) – Auto-generated API documentation from OpenAPI specs.
 - [Mintlify](https://www.mintlify.com/) – Documentation-as-code with optimized developer UX.
+- [DocsAlot](https://docsalot.dev) – Hosted docs-as-code platform for developer onboarding with API references, GitHub integration, and AI-readable documentation.
 
 ## Growth, Marketing & Sales
 
